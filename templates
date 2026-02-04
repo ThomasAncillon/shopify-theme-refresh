@@ -1,1 +1,9 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-index"
+    }
+  },
+  "order": ["main"]
+}
 
